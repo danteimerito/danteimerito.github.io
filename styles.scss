@@ -1,0 +1,53 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 1rem;
+}
+
+
+body {
+    min-height: 100vh;
+    background-color: rgb(0, 0, 0);
+}
+
+
+
+.flex-contain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+    padding: 0 1.5rem;
+    img {
+        max-width:8rem;
+    }
+}
+.copyright {
+    color: #ffffff;
+    padding:1rem;
+    // align-self:flex-end;
+}
+.center-page {
+    color: #fff;
+    text-align: center;
+}
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
